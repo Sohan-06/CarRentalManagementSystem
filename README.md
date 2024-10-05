@@ -1,8 +1,7 @@
-# DBMS-Project
 ![Car Rental System](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxjnyFGiwBw7dbmjqZsRd7TABPaije9_h4zs546-md2Of6fghS4fhlMuUmzy0N5HwBAu1hKPKnl8N_VVQRkXzDiE3PoFXAaNSBEiQ5nl4r9F4rBcu6Ybq3ezvMyGyK19aT17Yosr_HzeZHRhxn_GP7pCqh2Zh2lHx3TGmBHKTBBc20C8Kf44cjVcKRYA/s600/car%20rental.gif)
 
 <h1 align="center">Car Rental Website Project</h1>  
-This is a project for a car rental website. It is a project for the College  based on DSBMS Mini Project.
+This is a project for a car rental website.
 
 ## Table of Contents
 
@@ -15,9 +14,6 @@ This is a project for a car rental website. It is a project for the College  bas
 - [Car Listing Page](#car-listing-page)
 - [User Story](#user-story)
 - [Admin Page](#admin-page)
-- [Project Report](#project-report)
-- [Authors](#authors)
-- [Show your support](#show-your-support)
 
 
 ## Introduction
@@ -106,32 +102,12 @@ This is a project for a car rental website. It is a project for the College  bas
 - Click on Appache,replace url by localhost/car_rental_main.
 
 
-
-
-## Project Report
-
-- Report consists of the following:
-    - Introduction
-    - Literature Review
-    - Methodology
-    - Result
-    - Conclusion
-    - References
-- The project report is written in Microsoft Word.
-- The project repot has flow chart, ERD, and UML diagram.
-
 ##  Password for Admin
     usr:ADMIN
     password:ADMIN
     (Connect to the database and retrieve or change the login info)
 
 
-
-
-## Authors 
-
-
-## Show your support
 ## sql data bases in the my project
 
 
@@ -148,18 +124,3 @@ This is a project for a car rental website. It is a project for the College  bas
 
 
 ***
-
-
-
-
-## Authors
-
-- [@PKulal](https://github.com/PKulal)
-- Thoufeeq M I
-
-"# CarRentalManagementSystem" 
-"# CarRentalManagementSystem" 
-"# CarRentalManagementSystem" 
-"# CarRentalManagementSystem" 
-"# CarRentalManagementSystem" 
-"# CarRentalManagementSystem" 
